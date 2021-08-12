@@ -41,7 +41,7 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover {
-    color: #487069;
+    border-bottom: 2px solid #487069;
 }
 
 ul.topnav li a.active {
