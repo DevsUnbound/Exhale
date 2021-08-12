@@ -40,6 +40,10 @@ ul.topnav li a {
     font-family: Helvetica, sans-serif;
 }
 
+ul.topnav li a:hover {
+    color: #487069;
+}
+
 ul.topnav li a.active {
     color: #1abc9c;
 }
