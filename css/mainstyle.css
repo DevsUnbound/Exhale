@@ -2,3 +2,10 @@ body {
   background-color: #2b4048;
   margin: 0px;
 }
+
+img {
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
