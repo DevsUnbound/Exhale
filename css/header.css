@@ -1,7 +1,7 @@
 header {
     padding: 0px;
     text-align: left;
-    background: #adcac1;
+    background: #b2d3e6;
     color: white;
     font-size: 12px;
     margin: 0;
@@ -10,7 +10,7 @@ header {
 
 
 h1 {
-	color: #fafaff;
+	color: #00000;
     margin: 14px;
     float: left;
     font-family: Helvetica, sans-serif;
@@ -34,7 +34,7 @@ ul.topnav li a {
     display: block;
     color: #fafaff;
     text-align: center;
-    margin-top: 14px;
+    margin-top: 13px;
     margin-left: 12px;
     padding: 2px 4px;
     text-decoration: none;
@@ -42,9 +42,9 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover {
-    border-bottom: 2px solid #487069;
+    border-bottom: 2px solid #4390bc;
 }
 
 ul.topnav li a.active {
-    color: #1abc9c;
+    color: #d8e9f3;
 }

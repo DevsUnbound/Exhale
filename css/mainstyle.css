@@ -1,5 +1,7 @@
+
 body {
-  background-color: #2b4048;
+  font-family: sans-serif;
+  background-color: #d8e9f3;
   margin: 0px;
 }
 
@@ -11,5 +13,9 @@ img {
 }
 
 p {
-	color:aliceblue
+	color:#00000
+}
+
+h2 {
+	color:#00000
 }
