@@ -1,16 +1,14 @@
 header {
     padding: 0px;
     text-align: left;
-    background: #b2d3e6;
-    color: white;
+    background: #adcac1;
     font-size: 12px;
     margin: 0;
     height: 50px;
 }
 
-
-h1 {
-	color: #00000;
+h1.header {
+	color: #fafaff;
     margin: 14px;
     float: left;
     font-family: Helvetica, sans-serif;
@@ -34,7 +32,7 @@ ul.topnav li a {
     display: block;
     color: #fafaff;
     text-align: center;
-    margin-top: 13px;
+    margin-top: 14px;
     margin-left: 12px;
     padding: 2px 4px;
     text-decoration: none;
@@ -42,9 +40,9 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover {
-    border-bottom: 2px solid #4390bc;
+    border-bottom: 2px solid #487069;
 }
 
 ul.topnav li a.active {
-    color: #d8e9f3;
+    color: #1abc9c;
 }

@@ -1,21 +1,18 @@
-
 body {
   font-family: sans-serif;
-  background-color: #d8e9f3;
+  background-color: #2b4048;
   margin: 0px;
 }
 
 img {
-  margin-top: 20px;
-  margin-bottom: 100px;
-  margin-right: 5px;
-  margin-left: 5px;
+  margin: 0;
 }
 
-p {
-	color:#00000
-}
-
-h2 {
-	color:#00000
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 10px;
+  color: #fafaff;
+  font-size: 40px;
 }
